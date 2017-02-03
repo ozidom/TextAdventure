@@ -1,0 +1,1 @@
+C:\Code\windows\console\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
