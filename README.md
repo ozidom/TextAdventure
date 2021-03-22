@@ -1,2 +1,2 @@
 # TextAdventure
-Simple Text Adventure for students in Xero Canberra
+Simple Text Adventure for students in Xero Canberra. Requires refactor.
